@@ -8,7 +8,7 @@ encore – służy do konfiguracji Webpack’a
 twig - szablonowy język skryptowy  pozwalający na tworzenie dynamicznych stron internetowych
 validator - umożliwia walidację danych w aplikacji.
 webpack-encore - Pozwala na konfigurację zależności frontend’owych
-
+nelmio/cors - służące do ustawienia Cors
 
 
 <h2>Implementcaja Symfony:</h2>
@@ -40,3 +40,8 @@ Jeśli dane są poprawne następuje ich zapisanie do bazy danych oraz zwrócenie
 ![image](https://github.com/Mydlyk/form_app/assets/65900710/49b46ab9-e2e0-4797-9c2e-44be92526e24)
 
 ![image](https://github.com/Mydlyk/form_app/assets/65900710/6fc1a2ad-7d04-43a2-b0ec-71bec2c0016e)
+
+W celu obsłużenia zapytania od klienta z innego portu został ustawiony cors.
+
+![image](https://github.com/Mydlyk/form_app_back/assets/65900710/bc4a7244-ff0d-4353-82eb-854d9b59d9d2)
+
